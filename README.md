@@ -9,7 +9,8 @@ This app was created using a few different technologies;
 
 I would like to add more features to this app, to show more in depth data on each coin.
 
-You can view this website at
+You can view this website at;
+https://crypto-price-bp.netlify.app/
 
 Home Page
 ![](public/screenshot.jpg)
